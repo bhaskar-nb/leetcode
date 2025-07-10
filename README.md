@@ -37,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bhaskar-nb/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/bhaskar-nb/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+## Sorting
+|  |
+| ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/bhaskar-nb/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+## Matrix
+|  |
+| ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/bhaskar-nb/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->

@@ -1,13 +1,12 @@
 class Solution(object):
     def climbStairs(self, n):
-        if n<=2:
-            return n
+        memo = {}
+        return self.helper(n, memo)
     
-        first = 1
-        second = 2
-
-        for i in range(3,n+1):
-            third = first + second
-            first = second 
-            second = third
-        return second   
+    def helper(self, n, memo):
+        if n <= 2:
+            return n
+        if n in memo:
+            return memo[n]
+        memo[n] = self.helper(n - 1, memo) + self.helper(n - 2, memo)
+        return memo[n]

@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bhaskar-nb/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhaskar-nb/leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bhaskar-nb/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhaskar-nb/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1253-sort-the-matrix-diagonally](https://github.com/bhaskar-nb/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bhaskar-nb/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

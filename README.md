@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bhaskar-nb/leetcode/tree/master/0027-remove-element) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bhaskar-nb/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bhaskar-nb/leetcode/tree/master/0027-remove-element) |
 | [0724-find-pivot-index](https://github.com/bhaskar-nb/leetcode/tree/master/0724-find-pivot-index) |
 | [1253-sort-the-matrix-diagonally](https://github.com/bhaskar-nb/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 ## Sorting

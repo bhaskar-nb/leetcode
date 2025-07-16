@@ -1,28 +1,28 @@
 class Solution 
 {
-    public int totalWays(int m,int n)
+    public int totalWays(int m,int n,int dp[][])
     {
-        int M[][] = new int [m][n];
-        M[0][0] = 1;
-        for(int i=1; i<m; i++)
+        if(m==0 || n==0)
         {
-            M[i][0] = 1;
+            return 1;
         }
-        for(int j=1; j<n; j++)
+        if(dp[m][n]!=-1)
         {
-            M[0][j] = 1;
+            return dp[m][n];
         }
-        for(int i=1; i<m; i++)
-        {
-            for(int j=1; j<n; j++)
-            {
-                M[i][j] = M[i-1][j] + M[i][j-1];
-            }
-        }
-        return M[m-1][n-1];
+        dp[m][n] = totalWays(m-1,n,dp)+totalWays(m,n-1,dp);
+        return dp[m][n];
     }
     public int uniquePaths(int m, int n) 
     {
-        return totalWays(m,n);    
+        int dp[][] = new int[m][n];
+        for(int i=0; i<m; i++)
+        {
+            for(int j=0; j<n; j++)
+            {
+                dp[i][j] = -1;
+            }
+        }
+        return totalWays(m-1,n-1,dp);
     }
 }

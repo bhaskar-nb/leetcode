@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/bhaskar-nb/leetcode/tree/master/0724-find-pivot-index) |
 | [1253-sort-the-matrix-diagonally](https://github.com/bhaskar-nb/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 ## Sorting
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhaskar-nb/leetcode/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/bhaskar-nb/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

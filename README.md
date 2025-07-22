@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/bhaskar-nb/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bhaskar-nb/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bhaskar-nb/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bhaskar-nb/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhaskar-nb/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/bhaskar-nb/leetcode/tree/master/0027-remove-element) |
 | [0063-unique-paths-ii](https://github.com/bhaskar-nb/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bhaskar-nb/leetcode/tree/master/0064-minimum-path-sum) |
 | [0724-find-pivot-index](https://github.com/bhaskar-nb/leetcode/tree/master/0724-find-pivot-index) |
 | [1253-sort-the-matrix-diagonally](https://github.com/bhaskar-nb/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 ## Sorting
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/bhaskar-nb/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bhaskar-nb/leetcode/tree/master/0064-minimum-path-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/bhaskar-nb/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 ## Combinatorics
 |  |

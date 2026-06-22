@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/bhaskar-nb/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/bhaskar-nb/leetcode/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/bhaskar-nb/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/bhaskar-nb/leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/bhaskar-nb/leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/bhaskar-nb/leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/bhaskar-nb/leetcode/tree/master/1757-recyclable-and-low-fat-products) |

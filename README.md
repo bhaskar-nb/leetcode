@@ -1,18 +1,24 @@
-# LeetCode — Problem Solving & Interview Preparation
+# LeetCode — DSA & SQL Interview Preparation
 
-A structured collection of my **LeetCode solutions** focused on strengthening problem-solving, data structures, algorithms, and SQL skills for technical interviews.
+A growing collection of my **LeetCode solutions in Python, Java, C++, and SQL**, built to strengthen problem-solving skills and prepare for technical interviews.
 
-## What This Repository Contains
+## What You'll Find
 
-- **Algorithms & Data Structures** — arrays, strings, linked lists, trees, binary search, sliding window, dynamic programming, and more.
-- **SQL** — database queries covering filtering, aggregation, joins, and common interview patterns.
-- **Problem-Solving Practice** — solutions organized by LeetCode problem and topic for consistent interview preparation.
+- **Data Structures & Algorithms** — arrays, strings, linked lists, trees, binary search, sliding window, dynamic programming, hashing, sorting, and more.
+- **SQL** — filtering, aggregation, joins, subqueries, and common SQL interview patterns.
+- **Multiple Languages** — solutions across Python, Java, and C++ depending on the problem and practice goal.
+- **Topic-Based Practice** — problems organized by LeetCode topic so patterns are easier to review and revisit.
 
-## Goal
+## Why This Repository Exists
 
-Build strong problem-solving fundamentals through regular practice and develop the ability to recognize patterns, choose efficient approaches, and write clean solutions under interview constraints.
+This repository is my practical record of interview preparation: solving problems, recognizing recurring patterns, improving efficiency, and building the habit of writing clear solutions under time constraints.
 
-> Solutions are maintained as part of my ongoing technical interview preparation.
+## Current Focus
+
+**Primary:** SQL · Python · Data Structures & Algorithms  
+**Supporting:** Java · C++
+
+> This repository is actively updated as I continue practicing and expanding my problem-solving coverage.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -27,7 +33,7 @@ Build strong problem-solving fundamentals through regular practice and develop t
 ## Binary Search Tree
 |  |
 | ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhaskar-nb/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhaskar-nb/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-search-tree) |
 ## Binary Tree
 |  |
 | ------- |

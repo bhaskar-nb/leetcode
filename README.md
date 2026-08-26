@@ -1,4 +1,19 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode — Problem Solving & Interview Preparation
+
+A structured collection of my **LeetCode solutions** focused on strengthening problem-solving, data structures, algorithms, and SQL skills for technical interviews.
+
+## What This Repository Contains
+
+- **Algorithms & Data Structures** — arrays, strings, linked lists, trees, binary search, sliding window, dynamic programming, and more.
+- **SQL** — database queries covering filtering, aggregation, joins, and common interview patterns.
+- **Problem-Solving Practice** — solutions organized by LeetCode problem and topic for consistent interview preparation.
+
+## Goal
+
+Build strong problem-solving fundamentals through regular practice and develop the ability to recognize patterns, choose efficient approaches, and write clean solutions under interview constraints.
+
+> Solutions are maintained as part of my ongoing technical interview preparation.
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree

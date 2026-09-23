@@ -123,6 +123,7 @@ This repository is my practical record of interview preparation: solving problem
 | [1075-project-employees-i](https://github.com/bhaskar-nb/leetcode/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/bhaskar-nb/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/bhaskar-nb/leetcode/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bhaskar-nb/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/bhaskar-nb/leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/bhaskar-nb/leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/bhaskar-nb/leetcode/tree/master/1757-recyclable-and-low-fat-products) |

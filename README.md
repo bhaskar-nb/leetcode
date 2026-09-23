@@ -1,131 +1,146 @@
-# LeetCode — DSA & SQL Interview Preparation
+# LeetCode — SQL, Python & DSA Practice
 
-A growing collection of my **LeetCode solutions in Python, Java, C++, and SQL**, built to strengthen problem-solving skills and prepare for technical interviews.
+A structured collection of **LeetCode solutions** focused on SQL, Python, and Data Structures & Algorithms.
+
+This repository is primarily an **interview-preparation and problem-solving log**, with each solution stored by problem number and accompanied by a short explanation.
 
 ## What You'll Find
 
-- **Data Structures & Algorithms** — arrays, strings, linked lists, trees, binary search, sliding window, dynamic programming, hashing, sorting, and more.
-- **SQL** — filtering, aggregation, joins, subqueries, and common SQL interview patterns.
-- **Multiple Languages** — solutions across Python, Java, and C++ depending on the problem and practice goal.
-- **Topic-Based Practice** — problems organized by LeetCode topic so patterns are easier to review and revisit.
+### SQL Practice
 
-## Why This Repository Exists
+SQL solutions covering common interview patterns such as:
 
-This repository is my practical record of interview preparation: solving problems, recognizing recurring patterns, improving efficiency, and building the habit of writing clear solutions under time constraints.
+- Filtering and conditional logic
+- Aggregation and grouping
+- Joins
+- Subqueries
+- Duplicate detection
+- Date-based analysis
+- Employee and customer analytics
+- Basic relational database problems
+
+SQL solutions are especially relevant to my **Data Analyst** career preparation.
+
+### Data Structures & Algorithms
+
+Problems covering patterns such as:
+
+- Arrays
+- Strings
+- Hash tables
+- Two pointers
+- Sliding window
+- Linked lists
+- Binary search trees
+- Trees and DFS
+- Dynamic programming
+- Prefix sums
+- Sorting
+- Matrix problems
+
+### Multiple Languages
+
+Solutions in:
+
+- **Python**
+- **Java**
+- **C++**
+- **SQL**
+
+The language varies by problem and practice objective.
+
+## Repository Structure
+
+Each problem is stored in its own directory:
+
+```text
+leetcode/
+│
+├── 0001-two-sum/
+│   ├── 0001-two-sum.py
+│   └── README.md
+│
+├── 0182-duplicate-emails/
+│   ├── 0182-duplicate-emails.sql
+│   └── README.md
+│
+├── 0235-lowest-common-ancestor-of-a-binary-search-tree/
+│   ├── 0235-lowest-common-ancestor-of-a-binary-search-tree.java
+│   └── README.md
+│
+└── ...
+```
+
+This structure makes individual problems easy to find, review, and revisit.
+
+## Problem-Solving Approach
+
+For each problem, the goal is to practice:
+
+1. Understanding the problem requirements
+2. Identifying the underlying pattern
+3. Choosing an appropriate data structure or SQL technique
+4. Writing a clear solution
+5. Considering time and space complexity
+6. Reviewing alternative approaches when useful
 
 ## Current Focus
 
-**Primary:** SQL · Python · Data Structures & Algorithms  
+**Primary:** SQL · Python · Data Structures & Algorithms
+
 **Supporting:** Java · C++
 
-> This repository is actively updated as I continue practicing and expanding my problem-solving coverage.
+The SQL practice is maintained as part of my broader preparation for **Data Analyst interviews**, while DSA practice strengthens general problem-solving skills for technical interviews.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhaskar-nb/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhaskar-nb/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhaskar-nb/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-search-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhaskar-nb/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/bhaskar-nb/leetcode/tree/master/0009-palindrome-number) |
-| [0062-unique-paths](https://github.com/bhaskar-nb/leetcode/tree/master/0062-unique-paths) |
-| [0070-climbing-stairs](https://github.com/bhaskar-nb/leetcode/tree/master/0070-climbing-stairs) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0062-unique-paths](https://github.com/bhaskar-nb/leetcode/tree/master/0062-unique-paths) |
-| [0063-unique-paths-ii](https://github.com/bhaskar-nb/leetcode/tree/master/0063-unique-paths-ii) |
-| [0064-minimum-path-sum](https://github.com/bhaskar-nb/leetcode/tree/master/0064-minimum-path-sum) |
-| [0070-climbing-stairs](https://github.com/bhaskar-nb/leetcode/tree/master/0070-climbing-stairs) |
-| [0198-house-robber](https://github.com/bhaskar-nb/leetcode/tree/master/0198-house-robber) |
-| [0213-house-robber-ii](https://github.com/bhaskar-nb/leetcode/tree/master/0213-house-robber-ii) |
-## Memoization
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/bhaskar-nb/leetcode/tree/master/0070-climbing-stairs) |
-## Linked List
-|  |
-| ------- |
-| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bhaskar-nb/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
-## Two Pointers
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/bhaskar-nb/leetcode/tree/master/0027-remove-element) |
-| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bhaskar-nb/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/bhaskar-nb/leetcode/tree/master/0001-two-sum) |
-| [0027-remove-element](https://github.com/bhaskar-nb/leetcode/tree/master/0027-remove-element) |
-| [0063-unique-paths-ii](https://github.com/bhaskar-nb/leetcode/tree/master/0063-unique-paths-ii) |
-| [0064-minimum-path-sum](https://github.com/bhaskar-nb/leetcode/tree/master/0064-minimum-path-sum) |
-| [0198-house-robber](https://github.com/bhaskar-nb/leetcode/tree/master/0198-house-robber) |
-| [0213-house-robber-ii](https://github.com/bhaskar-nb/leetcode/tree/master/0213-house-robber-ii) |
-| [0724-find-pivot-index](https://github.com/bhaskar-nb/leetcode/tree/master/0724-find-pivot-index) |
-| [1253-sort-the-matrix-diagonally](https://github.com/bhaskar-nb/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
-## Sorting
-|  |
-| ------- |
-| [1253-sort-the-matrix-diagonally](https://github.com/bhaskar-nb/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
-## Matrix
-|  |
-| ------- |
-| [0063-unique-paths-ii](https://github.com/bhaskar-nb/leetcode/tree/master/0063-unique-paths-ii) |
-| [0064-minimum-path-sum](https://github.com/bhaskar-nb/leetcode/tree/master/0064-minimum-path-sum) |
-| [1253-sort-the-matrix-diagonally](https://github.com/bhaskar-nb/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
-## Combinatorics
-|  |
-| ------- |
-| [0062-unique-paths](https://github.com/bhaskar-nb/leetcode/tree/master/0062-unique-paths) |
-## Prefix Sum
-|  |
-| ------- |
-| [0724-find-pivot-index](https://github.com/bhaskar-nb/leetcode/tree/master/0724-find-pivot-index) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/bhaskar-nb/leetcode/tree/master/0001-two-sum) |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/bhaskar-nb/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
-| [0076-minimum-window-substring](https://github.com/bhaskar-nb/leetcode/tree/master/0076-minimum-window-substring) |
-## String
-|  |
-| ------- |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/bhaskar-nb/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
-| [0076-minimum-window-substring](https://github.com/bhaskar-nb/leetcode/tree/master/0076-minimum-window-substring) |
-## Sliding Window
-|  |
-| ------- |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/bhaskar-nb/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
-| [0076-minimum-window-substring](https://github.com/bhaskar-nb/leetcode/tree/master/0076-minimum-window-substring) |
-## Database
-|  |
-| ------- |
-| [0182-duplicate-emails](https://github.com/bhaskar-nb/leetcode/tree/master/0182-duplicate-emails) |
-| [0584-find-customer-referee](https://github.com/bhaskar-nb/leetcode/tree/master/0584-find-customer-referee) |
-| [0595-big-countries](https://github.com/bhaskar-nb/leetcode/tree/master/0595-big-countries) |
-| [0596-classes-with-at-least-5-students](https://github.com/bhaskar-nb/leetcode/tree/master/0596-classes-with-at-least-5-students) |
-| [0619-biggest-single-number](https://github.com/bhaskar-nb/leetcode/tree/master/0619-biggest-single-number) |
-| [0620-not-boring-movies](https://github.com/bhaskar-nb/leetcode/tree/master/0620-not-boring-movies) |
-| [1075-project-employees-i](https://github.com/bhaskar-nb/leetcode/tree/master/1075-project-employees-i) |
-| [1141-user-activity-for-the-past-30-days-i](https://github.com/bhaskar-nb/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
-| [1148-article-views-i](https://github.com/bhaskar-nb/leetcode/tree/master/1148-article-views-i) |
-| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bhaskar-nb/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
-| [1683-invalid-tweets](https://github.com/bhaskar-nb/leetcode/tree/master/1683-invalid-tweets) |
-| [1729-find-followers-count](https://github.com/bhaskar-nb/leetcode/tree/master/1729-find-followers-count) |
-| [1757-recyclable-and-low-fat-products](https://github.com/bhaskar-nb/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
-| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bhaskar-nb/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
-<!---LeetCode Topics End-->
+## Selected SQL Topics
+
+Examples currently covered in the repository include:
+
+- Duplicate records
+- Filtering by conditions
+- Grouping and aggregation
+- JOIN-based analysis
+- Date filtering
+- Employee-project analysis
+- Customer and user activity analysis
+- Basic relational data problems
+
+## Selected DSA Topics
+
+Examples currently covered include:
+
+- Array manipulation
+- Prefix sums
+- Hash tables
+- Sliding window
+- Two pointers
+- Matrix traversal
+- Linked lists
+- Binary search trees
+- Dynamic programming
+
+## Why This Repository Exists
+
+This repository serves as a practical record of continuous interview preparation.
+
+The focus is not only on collecting solutions, but on improving:
+
+- Problem recognition
+- SQL query writing
+- Algorithmic thinking
+- Code clarity
+- Time and space complexity awareness
+- Consistency in technical practice
+
+## Notes
+
+This is an actively growing practice repository. The number and coverage of solved problems will increase over time.
+
+For project-based SQL and analytics work, see my dedicated SQL repositories on my GitHub profile.
+
+---
+
+**Bhaskar Nakka**  
+Computer Science Engineering Graduate | Aspiring Data Analyst
+
+**Primary skills represented:** SQL · Python · Java · C++ · Problem Solving

@@ -144,3 +144,11 @@ For project-based SQL and analytics work, see my dedicated SQL repositories on m
 Computer Science Engineering Graduate | Aspiring Data Analyst
 
 **Primary skills represented:** SQL · Python · Java · C++ · Problem Solving
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/bhaskar-nb/leetcode/tree/master/1068-product-sales-analysis-i) |
+<!---LeetCode Topics End-->

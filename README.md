@@ -151,4 +151,5 @@ Computer Science Engineering Graduate | Aspiring Data Analyst
 |  |
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/bhaskar-nb/leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bhaskar-nb/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->

@@ -162,10 +162,12 @@ Computer Science Engineering Graduate | Aspiring Data Analyst
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhaskar-nb/leetcode/tree/master/0020-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhaskar-nb/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhaskar-nb/leetcode/tree/master/0020-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhaskar-nb/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
@@ -174,5 +176,6 @@ Computer Science Engineering Graduate | Aspiring Data Analyst
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhaskar-nb/leetcode/tree/master/0020-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhaskar-nb/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->

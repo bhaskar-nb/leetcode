@@ -178,6 +178,7 @@ Computer Science Engineering Graduate | Aspiring Data Analyst
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhaskar-nb/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhaskar-nb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/bhaskar-nb/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhaskar-nb/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
@@ -207,4 +208,8 @@ Computer Science Engineering Graduate | Aspiring Data Analyst
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhaskar-nb/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/bhaskar-nb/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->

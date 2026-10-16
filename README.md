@@ -154,6 +154,7 @@ Computer Science Engineering Graduate | Aspiring Data Analyst
 | [0550-game-play-analysis-iv](https://github.com/bhaskar-nb/leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/bhaskar-nb/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/bhaskar-nb/leetcode/tree/master/0577-employee-bonus) |
+| [1045-customers-who-bought-all-products](https://github.com/bhaskar-nb/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/bhaskar-nb/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/bhaskar-nb/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1174-immediate-food-delivery-ii](https://github.com/bhaskar-nb/leetcode/tree/master/1174-immediate-food-delivery-ii) |

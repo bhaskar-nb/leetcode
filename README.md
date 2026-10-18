@@ -170,6 +170,7 @@ Computer Science Engineering Graduate | Aspiring Data Analyst
 | [1633-percentage-of-users-attended-a-contest](https://github.com/bhaskar-nb/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/bhaskar-nb/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/bhaskar-nb/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/bhaskar-nb/leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/bhaskar-nb/leetcode/tree/master/1934-confirmation-rate) |
 ## String
 |  |

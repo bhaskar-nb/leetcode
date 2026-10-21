@@ -179,6 +179,7 @@ Computer Science Engineering Graduate | Aspiring Data Analyst
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhaskar-nb/leetcode/tree/master/0020-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhaskar-nb/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/bhaskar-nb/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |

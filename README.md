@@ -210,6 +210,7 @@ Computer Science Engineering Graduate | Aspiring Data Analyst
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bhaskar-nb/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhaskar-nb/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/bhaskar-nb/leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/bhaskar-nb/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |

@@ -160,6 +160,7 @@ Computer Science Engineering Graduate | Aspiring Data Analyst
 | [0584-find-customer-referee](https://github.com/bhaskar-nb/leetcode/tree/master/0584-find-customer-referee) |
 | [0610-triangle-judgement](https://github.com/bhaskar-nb/leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/bhaskar-nb/leetcode/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/bhaskar-nb/leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/bhaskar-nb/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/bhaskar-nb/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/bhaskar-nb/leetcode/tree/master/1070-product-sales-analysis-iii) |
